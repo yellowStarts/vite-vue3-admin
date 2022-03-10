@@ -8,7 +8,7 @@ const count = ref(0)
 
 <template>
   <h1>{{ msg }}</h1>
-
+  <t-button block theme="primary" variant="base"> 填充按钮 </t-button>
   <p>
     Recommended IDE setup:
     <a href="https://code.visualstudio.com/" target="_blank">VSCode</a>
